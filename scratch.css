@@ -1,0 +1,59 @@
+
+.scratch-page {
+    background-color: #f5f5f0; 
+}
+
+.scratch-container {
+    padding: 15px;
+}
+
+.scratch-section {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 2px solid #8b5a2b; 
+}
+
+.scratch-section h2 {
+    color: #5a3e36; 
+    border-bottom: 2px solid #d2b48c; 
+    padding-bottom: 5px;
+}
+
+.video-container {
+    background-color: #d2b48c; 
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.video-container iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+.scratch-section ol, 
+.scratch-section ul {
+    padding-left: 25px;
+}
+
+.scratch-section li {
+    margin-bottom: 5px;
+}
+
+.scratch-section img {
+    max-width: 100%;
+    border: 2px solid #8b5a2b; 
+    margin: 10px 0;
+    display: block;
+}
+
+.tableauPlaceholder {
+    border: 2px solid #8b5a2b; 
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.back-link {
+    text-align: center;
+    margin-top: 20px;
+}

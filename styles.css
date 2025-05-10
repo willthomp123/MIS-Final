@@ -1,0 +1,106 @@
+
+body {
+    font-family: Arial;
+    background-color: white;
+    color: #5a3e36; 
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+
+header {
+    background-color: #8b5a2b; 
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+/* Home Page Styles */
+.hero {
+    background-color: #d2b48c; /* Tan */
+    text-align: center;
+    padding: 30px;
+    color: #5a3e36; /* Dark brown */
+}
+
+.features {
+    display: flex;
+    margin: 20px;
+    flex-wrap: wrap;
+}
+
+.feature-box {
+    background-color: white;
+    padding: 15px;
+    margin: 10px;
+    border: 2px solid #8b5a2b; 
+    flex: 1;
+    min-width: 200px;
+}
+
+.resume-section {
+    background-color: white;
+    padding: 15px;
+    margin: 15px;
+    border: 2px solid #8b5a2b; 
+}
+
+.skills-list {
+    margin: 10px 0;
+}
+
+.skill {
+    background-color: #d2b48c; 
+    color: #5a3e36; 
+    padding: 5px 10px;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 3px;
+}
+
+.about-content {
+    background-color: white;
+    padding: 15px;
+    margin: 15px;
+    border: 2px solid #8b5a2b;
+}
+
+.about-image img {
+    max-width: 100%;
+    border: 2px solid #8b5a2b; 
+}
+
+footer {
+    background-color: #5a3e36; 
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.btn {
+    background-color: #8b5a2b;
+    color: white;
+    padding: 8px 15px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+    border: none;
+}
